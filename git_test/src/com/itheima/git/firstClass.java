@@ -11,4 +11,7 @@ public class firstClass {
         System.out.println("hellogit");
         System.out.println("hellogit");
     }
+    public void test(){
+        System.out.println("你好");
+    }
 }
