@@ -13,7 +13,7 @@ public class firstClass {
     }
     public void test(){
         System.out.println("");
-        System.out.println("大家好");
+        System.out.println("");
         System.out.println("");
 		
     }
