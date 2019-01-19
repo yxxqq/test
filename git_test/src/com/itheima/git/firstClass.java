@@ -12,7 +12,7 @@ public class firstClass {
         System.out.println("hellogit");
     }
     public void test(){
-        System.out.println("你好");
+        System.out.println("");
         System.out.println("大家好");
         System.out.println("");
 		
